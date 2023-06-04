@@ -1,0 +1,6 @@
+@media (max-width: 12000px) {
+  html {
+    font-size: 55%;
+    overflow-x: hidden;
+  }
+}
